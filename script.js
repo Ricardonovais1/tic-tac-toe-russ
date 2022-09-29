@@ -169,21 +169,3 @@ function gameScore(count1, count2) {
         
 }
 
-
-
-
-
-
-
-//     this.count1 = count1;
-//     this.count2 = count2;
-//     this.printScore1() {
-//         count1 += 0;
-//         score1.textContent = count1;
-//     };
-//     this.printScore2() {
-//         count2 += 0;
-//         score2.textContent = count2;
-//     }
-// }
-
